@@ -1,0 +1,145 @@
+#aee{
+display: flex;
+background-color: black;
+justify-content: space-around;
+align-items: center;
+top: 0;
+
+width: 100%;
+
+}
+#add{
+    height: 90px;
+    background-color: black;
+
+}
+a{
+    color: #ffffff;
+    margin: 40px;
+    text-decoration: none;
+}
+#n{
+    margin: 9px;
+    height: 35px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: black;
+}
+#b{
+    margin: 9px;
+    height: 35px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px;
+    border-color: rgb(15, 15, 34);
+
+}
+#aa{
+    width: 4000;
+    background-size: cover;
+}
+body{
+    background-color: black;
+}
+#box1{
+    background-image: url(https://static.tossdown.com/images/92155021-ecd2-41f2-8458-d01b5a537c66.webp);
+    background-size: cover;
+
+    width: 1354px;
+    height: 551px;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
+}
+
+.franchise-section {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 32px;
+  margin-top: 10px;
+}
+
+.desc {
+  color: #ccc;
+  margin: 15px 0 40px;
+}
+
+.franchise-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.image-box img {
+  width: 450px;
+  border-radius: 5px;
+}
+
+.content-box {
+  text-align: left;
+  max-width: 400px;
+}
+
+.city {
+  color: red;
+  letter-spacing: 3px;
+}
+
+.restaurant-name {
+  font-size: 26px;
+  margin: 10px 0;
+}
+
+.info {
+  color: #ccc;
+  margin: 8px 0;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 12px 25px;
+  border: 1px solid #fff;
+  background: transparent;
+  color: #fff;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #fff;
+  color: #000;
+}
+#cards-row{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.cards{
+    width: 375px;
+    height: 373px;
+}
+.cards img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+h1{
+    text-align: center;
+    margin-top: 80px;
+}
+p{
+     text-align: center;
+}
